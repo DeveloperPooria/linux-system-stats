@@ -1,2 +1,2 @@
 # linux-system-stats
-Calculate CPU and memory usage
+Calculate CPU and Memory usage
